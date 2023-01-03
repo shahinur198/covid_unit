@@ -8,7 +8,7 @@ httplib2==0.15.0
 numpy==1.17.4
 requests==2.22.0
 requests-toolbelt==0.9.1
-urllib3==1.25.7
+urllib3==1.26.5
 w3lib==1.21.0
 Werkzeug==0.16.0
 Click==7.0
