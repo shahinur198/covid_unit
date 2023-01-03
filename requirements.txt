@@ -11,3 +11,12 @@ requests-toolbelt==0.9.1
 urllib3==1.25.7
 w3lib==1.21.0
 Werkzeug==0.16.0
+Click==7.0
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+psycopg2==2.8.6
+flask_limiter==1.4
+apscheduler==3.7.0
+firebase_admin==5.0.0
+uWSGI==2.0.18
